@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Shuttle Documentation.",
   "main": "index.js",
-  "repository": "https://github.com/Shuttle/Pendel.git",
+  "repository": "https://github.com/Shuttle/pendel-pre-v20.git",
   "author": "Eben <me@ebenroux.co.za>",
   "license": "MIT",
   "scripts": {

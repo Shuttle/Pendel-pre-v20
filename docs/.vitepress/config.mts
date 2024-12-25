@@ -7,7 +7,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Shuttle",
   description: "Shuttle Documentation (pre-v20)",
-  base: "/",
+  base: "/pendel-pre-v20",
   lang: "en-US",
   head: [["link", { rel: "shortcut icon", href: "/favicon.ico" }]],
   themeConfig: {
@@ -16,7 +16,7 @@ export default defineConfig({
       provider: "local"
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/Shuttle/Pendel-pre-v20" },
+      { icon: "github", link: "https://github.com/Shuttle/pendel-pre-v20" },
       { icon: "discord", link: "https://discord.gg/J2suHcy2x8" },
     ],
     logo: "/logo.svg",
